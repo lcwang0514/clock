@@ -8,5 +8,5 @@ export default defineConfig({
     outDir: "./docs",
     assetsDir: "assets"
   },
-  base: '/docs'
+  base: '/clock'
 })
